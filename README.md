@@ -2,7 +2,7 @@
 
 ![Resume Builder-banner (2)](https://user-images.githubusercontent.com/75086395/197600498-2a225626-c62f-4daa-8dee-d302f48da1fa.png)
 
-### An app developed for creating a resume in few steps. <br> This app currently has only one format, but we have much bigger plans for it in the future. 
+### An app developed for creating a resume in few steps.
 
 ## How to use
 - The *left field* is for entering data, and *right field* is for preview.
@@ -15,8 +15,5 @@
 ## tech stack 🚀
 - **React.js** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=20 align="center"/>
 
-## Contribution
-if you want to contribute to this project please refer [CONTRIBUTING.md](https://github.com/Rahilsiddique/resume-builder/blob/main/CONTRIBUTING.md)
 
-### Author 
-- ### [Rahil](https://github.com/Rahilsiddique) 
+
