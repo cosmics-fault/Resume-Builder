@@ -1,4 +1,4 @@
-<h1 align="center">Resume Builder - </h1>
+<h1 align="center">Resume Builder  </h1>
 
 ![Resume Builder-banner (2)](https://user-images.githubusercontent.com/75086395/197600498-2a225626-c62f-4daa-8dee-d302f48da1fa.png)
 
