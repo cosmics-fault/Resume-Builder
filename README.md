@@ -1,4 +1,4 @@
-<h1 align="center">Resume Builder - ✌</h1>
+<h1 align="center">Resume Builder - </h1>
 
 ![Resume Builder-banner (2)](https://user-images.githubusercontent.com/75086395/197600498-2a225626-c62f-4daa-8dee-d302f48da1fa.png)
 
@@ -12,7 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/75086395/197950622-296365fc-3da9-4e9a-955a-0738e8fb0f74.png" height="500"/>
 
-## tech stack 🚀
+## tech stack 
 - **React.js** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=20 align="center"/>
 
 
